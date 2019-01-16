@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\PaymantsContat.Shared\PaymantsContat.Shared.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="flunt" Version="1.0.2" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+</Project>

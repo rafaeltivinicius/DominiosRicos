@@ -1,0 +1,16 @@
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\bin\Debug\netstandard1.4\PaymantsContat.Shared.deps.json
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\bin\Debug\netstandard1.4\PaymantsContat.Shared.dll
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\bin\Debug\netstandard1.4\PaymantsContat.Shared.pdb
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.csproj.CoreCompileInputs.cache
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.AssemblyInfo.cs
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.dll
+E:\Projetos\BaltaIO\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.pdb
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\bin\Debug\netstandard1.4\PaymantsContat.Shared.deps.json
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\bin\Debug\netstandard1.4\PaymantsContat.Shared.dll
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\bin\Debug\netstandard1.4\PaymantsContat.Shared.pdb
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.csprojAssemblyReference.cache
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.csproj.CoreCompileInputs.cache
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.AssemblyInfoInputs.cache
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.AssemblyInfo.cs
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.dll
+D:\Projetos\DominiosRicos\PaymantsContat\PaymantsContat.Shared\obj\Debug\netstandard1.4\PaymantsContat.Shared.pdb
